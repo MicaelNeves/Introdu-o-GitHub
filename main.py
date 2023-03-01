@@ -12,6 +12,7 @@ minha_variavel_tem_esse_nome = "Algo"
 '''
 
 Hello()
+Hello()
 '''
 msg1 = "hello"
 msg2 = "World"
