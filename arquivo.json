@@ -1,0 +1,27 @@
+{
+    
+    "Funcionarios" : [
+    {"ID_Funcionario": 1, "Nome": "Micael", "Sigla_Departamento": "RH", "Salário": 1200},
+    {"ID_Funcionario": 2, "Nome": "Mario", "Sigla_Departamento": "RH", "Salário": 1220},
+    {"ID_Funcionario": 3, "Nome": "João", "Sigla_Departamento": "V", "Salário": 1546},
+    {"ID_Funcionario": 4, "Nome": "Carlos", "Sigla_Departamento": "V", "Salário": 1546},
+    {"ID_Funcionario": 5, "Nome": "Daniel", "Sigla_Departamento": "MKT", "Salário": 1500},
+    {"ID_Funcionario": 6, "Nome": "Matheus", "Sigla_Departamento": "ADM", "Salário": 1200},
+    {"ID_Funcionario": 7, "Nome": "Marcos", "Sigla_Departamento": "ADM", "Salário": 1200},
+    {"ID_Funcionario": 8, "Nome": "Milena", "Sigla_Departamento": "V", "Salário": 1546},
+    {"ID_Funcionario": 9, "Nome": "Micaela", "Sigla_Departamento": "RH", "Salário": 1220},
+    {"ID_Funcionario": 10, "Nome": "Rafaela", "Sigla_Departamento": "MKT", "Salário": 1500}
+       ],
+
+    
+    "Departamento"  : [
+
+        {"Sigla_Departamento": "RH", "QTd_Funcionários": 3, "Nome_Departamento":"Recursos Humanos"},
+        {"Sigla_Departamento": "MKT", "QTd_Funcionários": 2, "Nome_Departamento":"Markenting"},
+        {"Sigla_Departamento": "ADM", "QTd_Funcionários": 2, "Nome_Departamento":"Administração"},
+        {"Sigla_Departamento": "V", "QTd_Funcionários": 3, "Nome_Departamento":"Vendas"}
+    ]
+}
+
+
+
